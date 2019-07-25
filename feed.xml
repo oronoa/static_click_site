@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Want Squad</title>
+    <link href="http://benscreditcard.com/feed.xml" rel="self" />
+    <link href="http://benscreditcard.com" />
+    <updated>2019-07-25T09:39:53+03:00</updated>
+    <author>
+        <name>Ben Williams</name>
+    </author>
+    <id>http://benscreditcard.com</id>
+
+    <entry>
+        <title>ffdsfdsf</title>
+        <author>
+            <name>Ben Williams</name>
+        </author>
+        <link href="http://benscreditcard.com/ffdsfdsf/"/>
+        <id>http://benscreditcard.com/ffdsfdsf/</id>
+
+        <updated>2019-05-29T18:43:35+03:00</updated>
+            <summary>
+                <![CDATA[
+                    dfdsfdssf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                dfdsfdssf
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Why you should read this</title>
+        <author>
+            <name>Ben Williams</name>
+        </author>
+        <link href="http://benscreditcard.com/why-you-should-read-this/"/>
+        <id>http://benscreditcard.com/why-you-should-read-this/</id>
+
+        <updated>2019-05-29T18:43:29+03:00</updated>
+            <summary>
+                <![CDATA[
+                    fdg gfdgfd gf fd g fd gf dg 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>fdg gfdgfd</p>
+<p>gf</p>
+<p>fd</p>
+<p>g</p>
+<p>fd gf</p>
+<p>dg</p>
+<div class="gallery"  > </div>
+            ]]>
+        </content>
+    </entry>
+</feed>

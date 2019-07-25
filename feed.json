@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Want Squad",
+    "description": "",
+    "home_page_url": "http://benscreditcard.com",
+    "feed_url": "http://benscreditcard.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ben Williams"
+    },
+    "items": [
+        {
+            "id": "http://benscreditcard.com/ffdsfdsf/",
+            "url": "http://benscreditcard.com/ffdsfdsf/",
+            "title": "ffdsfdsf",
+            "summary": "dfdsfdssf",
+            "content_html": "dfdsfdssf",
+            "author": {
+                "name": "Ben Williams"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-29T18:43:35+03:00",
+            "date_modified": "2019-05-29T18:43:35+03:00"
+        },
+        {
+            "id": "http://benscreditcard.com/why-you-should-read-this/",
+            "url": "http://benscreditcard.com/why-you-should-read-this/",
+            "title": "Why you should read this",
+            "summary": "fdg gfdgfd gf fd g fd gf dg ",
+            "content_html": "<p>fdg gfdgfd</p>\n<p>gf</p>\n<p>fd</p>\n<p>g</p>\n<p>fd gf</p>\n<p>dg</p>\n<div class=\"gallery\"  > </div>",
+            "author": {
+                "name": "Ben Williams"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-29T18:43:29+03:00",
+            "date_modified": "2019-05-29T18:43:29+03:00"
+        }
+    ]
+}
